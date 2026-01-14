@@ -1,0 +1,110 @@
+{
+  "abs": {
+    "meaning": "ABS fault.",
+    "action": "Braking works without ABS; drive carefully; service soon." 
+  },
+  "airbag": {
+    "meaning": "Airbag/SRS fault.",
+    "action": "Service soon; airbags may not deploy correctly." 
+  },
+  "awd_fault": {
+    "meaning": "All-wheel drive system fault.",
+    "action": "Drive carefully; avoid off-road; service soon." 
+  },
+  "battery": {
+    "meaning": "Charging system fault.",
+    "action": "Minimize electrical load; service soon; if multiple lights appear, prepare to stop safely." 
+  },
+  "blind_spot": {
+    "meaning": "Vehicle detected in blind spot.",
+    "action": "Check mirrors and blind spot before changing lanes." 
+  },
+  "brake_warning": {
+    "meaning": "Brake system issue or parking brake engaged.",
+    "action": "Check parking brake; if released, stop safely and inspect brake system." 
+  },
+  "check_engine": {
+    "meaning": "Engine or emissions fault detected.",
+    "action": "Check for obvious issues; drive moderately; scan OBD-II soon." 
+  },
+  "coolant_temp": {
+    "meaning": "Engine overheating.",
+    "action": "Stop safely; let engine cool; check coolant level and leaks." 
+  },
+  "cruise_control": {
+    "meaning": "Cruise control active.",
+    "action": "Normal operation; press brake to cancel." 
+  },
+  "open_door": {
+    "meaning": "Door or trunk not properly closed.",
+    "action": "Check all doors and trunk; close securely." 
+  },
+  "dpf": {
+    "meaning": "Diesel Particulate Filter needs regeneration.",
+    "action": "Drive at highway speeds for 15-20 minutes; service if light persists." 
+  },
+  "esp": {
+    "meaning": "Electronic Stability Program active or fault.",
+    "action": "If flashing, system is working; if steady, service soon." 
+  },
+  "fog_lights": {
+    "meaning": "Fog lights are active.",
+    "action": "Turn off when visibility improves." 
+  },
+  "glow_plug": {
+    "meaning": "Diesel glow plugs warming up.",
+    "action": "Wait for light to turn off before starting engine." 
+  },
+  "high_beam": {
+    "meaning": "High beam headlights are on.",
+    "action": "Switch to low beams when approaching other vehicles." 
+  },
+  "lane_departure": {
+    "meaning": "Lane departure warning active.",
+    "action": "Stay within lane markings or use turn signals." 
+  },
+  "low_fuel": {
+    "meaning": "Fuel level low.",
+    "action": "Refuel as soon as possible." 
+  },
+  "oil_pressure": {
+    "meaning": "Low oil pressure.",
+    "action": "Stop immediately; check oil level; do not continue if light stays on." 
+  },
+  "parking_brake": {
+    "meaning": "Parking brake engaged.",
+    "action": "Release parking brake before driving." 
+  },
+  "steering": {
+    "meaning": "Power steering fault.",
+    "action": "Steering may be heavy; service soon; drive carefully." 
+  },
+  "seatbelt": {
+    "meaning": "Seatbelt not fastened.",
+    "action": "Fasten seatbelt." 
+  },
+  "security": {
+    "meaning": "Anti-theft system active or fault.",
+    "action": "If flashing, system is armed; if steady, check key or service." 
+  },
+  "service_required": {
+    "meaning": "Routine maintenance due.",
+    "action": "Schedule service appointment; check owner's manual." 
+  },
+  "tire": {
+    "meaning": "Tire pressure monitoring system alert.",
+    "action": "Check all tire pressures; inflate to recommended PSI."
+  },
+  "traction_control": {
+    "meaning": "Traction control active or fault.",
+    "action": "If constantly on, service soon; drive gently." 
+  },
+  "transmission_temp": {
+    "meaning": "Transmission overheating.",
+    "action": "Stop safely; let transmission cool; check fluid level." 
+  },
+  "washer_fluid": {
+    "meaning": "Windshield washer fluid low.",
+    "action": "Refill washer fluid reservoir." 
+  }
+}
